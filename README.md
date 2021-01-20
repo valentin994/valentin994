@@ -1,6 +1,13 @@
 ### Hi there 👋
+
+I'm a developer from Croatia that is keen on learning new things and being up to date with the latest and greatest in tech.
+Highly interested in machine learning and ai. Right now working as a software developer on various projects where <br>
+
+### My GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valentin994&show_icons=true&theme=tokyonight&count_private=true)
 
+Most Used Languages
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin994&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
