@@ -16,4 +16,6 @@ Sometimes I post on medium, mostly tutorials. You can have a look at what i post
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/1" alt="Recent Article 1"> 
 
-<a target="_blank" href="https://www.linkedin.com/in/valentin-vareskic-206107153/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Contact Me :email:
+---
+<a href="https://www.linkedin.com/in/valentin-vareskic-206107153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
