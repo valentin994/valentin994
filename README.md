@@ -14,6 +14,7 @@ Articles&Conferences :blue_book:
 ---
 [Classification of Travel Modes from Cellular Network Data Using Machine Learning Algorithms](https://www.researchgate.net/publication/355062400_Classification_of_Travel_Modes_from_Cellular_Network_Data_Using_Machine_Learning_Algorithms)
 [Machine Learning Approaches to Personality Classification on Imbalanced MBTI Datasets](https://ieeexplore.ieee.org/document/9596742)
+
 Sometimes I post on medium, mostly tutorials. You can have a look at what i posted so far down here.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valentinvareskic/1" alt="Recent Article 1"> 
