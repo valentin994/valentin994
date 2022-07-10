@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a fullstack developer from Croatia that is right now mainly working on biology projects. 
-Sometimes I dable into AI&ML. Open source advocate. :ghost:<br>
+Sometimes I dable into AI&ML. Open source advocate. <br>
 
 ### My GitHub Stats :satellite:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valentin994&show_icons=true&theme=tokyonight&count_private=true)
