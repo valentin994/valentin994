@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fullstack developer & tech writer from Croatia. I have had the chance to work in multiple industries, randing from bioscience, telecommunications to IoT. 
+I'm a fullstack developer & tech writer from Croatia. I have had the chance to work in multiple industries, ranging from bioscience, and telecommunications to IoT. 
 I have published papers on artificial intelligence, but now I mostly write on medium. <br>
 
 ### My GitHub Stats :satellite:
