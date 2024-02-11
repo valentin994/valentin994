@@ -24,4 +24,4 @@ Contact Me :email:
 ---
 <a href="https://www.linkedin.com/in/valentin-vareskic-206107153/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Want to support me? buymeacoffee.com/valentinvareskic
+Want to support me? [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/valentinvareskic)
